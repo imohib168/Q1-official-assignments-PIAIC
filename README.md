@@ -1,6 +1,6 @@
 # PIAIC-official-assignments
 ----------------------------
-| ### Official Assignment list given by PIAIC 
+### Official Assignment list given by PIAIC 
 | * Area of Circle
 | * Area of Triangle
 | * Body Mass Index
