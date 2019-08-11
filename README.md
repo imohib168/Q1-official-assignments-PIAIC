@@ -29,5 +29,6 @@
 1. **Volume of sphere**
 1. **Vowels and consonants**
 1. **(x + y) * (x + y) Formula**
+1. **Pattern using nested Loop-(Number-2)**
 ---
 ## Coded by : [Mohib Ismail](https://github.com)
