@@ -30,4 +30,4 @@
 1. **Vowels and consonants**
 1. **(x + y) * (x + y) Formula**
 ---
-## Coded by : 
+## Coded by : [Mohib Ismail](https://github.com)
