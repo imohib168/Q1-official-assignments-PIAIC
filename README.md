@@ -31,4 +31,4 @@
 1. **(x + y) * (x + y) Formula**
 1. **Pattern using nested Loop-(Number-2)**
 ---
-## Coded by : [Mohib Ismail](https://github.com)
+## Coded by : [Mohib Ismail](https://github.com/imohib168)
